@@ -1,0 +1,18 @@
+*
+.siji {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.telu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
